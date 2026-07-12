@@ -1,0 +1,22 @@
+{
+  "icon": "books.vertical",
+  "entry": "index.tsx",
+  "remoteResource": null,
+  "version": "2.1.0",
+  "localizedDescriptions": {
+    "zh": "JM 禁漫天堂阅读脚本：默认 jmcomic-zzz.one 美漫分类，支持线路切换、搜索、打开本子/章节，改用全局 Safari API 避免导入报错。",
+    "en": "JMComic reader with switchable domains, search, album/chapter deep links, default meiman category, and global Safari API opening."
+  },
+  "iconImage": null,
+  "description": "JM 禁漫天堂阅读脚本：支持线路切换、搜索、JM号直达、章节直达；默认 jmcomic-zzz.one/albums/meiman。",
+  "localizedNames": {
+    "zh": "JM禁漫天堂",
+    "en": "JMComic Reader"
+  },
+  "runInApp": false,
+  "color": "rgba(124, 76, 179,1)",
+  "name": "JM禁漫天堂",
+  "intentInputTypes": [],
+  "author": "Hermes Agent",
+  "contributors": []
+}
